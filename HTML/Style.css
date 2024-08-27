@@ -1,0 +1,88 @@
+h1 {
+font-size:60px;
+text-align:center;
+color:rgba(0,200,255,0.8);
+font-family:cursive;
+}
+
+body {
+background-color:black;
+font-family:cursive;
+margin:0;
+}
+
+p {
+font-size:40px;
+font-family:cursive;
+color:white;
+}
+
+#Fondo {
+background-image:url("imagenes/fondo.jpeg");
+}
+ 
+
+header {
+background-color:coral;
+height:40px;
+font-size:14px;
+padding:8px;
+}
+
+a {
+text-decoration:none;
+color:rgb(0,0,0);
+}
+
+nav a {
+font-weight:550;
+padding-right:9px;
+}
+
+nav a:hover {
+color:white;
+}
+
+#tabla {
+border:8px solid black;
+border-radius:80px;
+border-color:white;
+}
+
+tr {
+color:white;
+text-align:center;
+font-family:cursive;
+font-size:35px;
+}
+
+#link {
+color:red;
+text-decoration:none;
+}
+
+.logo {
+display:flex;
+align-items:center;
+}
+
+.logo img {
+height:90px; 
+margin-right:10px;
+}
+
+#Encabezado {
+background-color:coral;
+display:flex;
+justify-content:space-between;
+align-items:center;
+height:80px;
+font-size:25px;
+padding:8px;
+padding-right:50px;
+}
+
+
+
+
+
